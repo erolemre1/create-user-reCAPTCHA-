@@ -18,7 +18,7 @@ git clone https://github.com/erolemre1/create-user-reCAPTCHA-.git
 ### Usage
 
 ```
-cd hangman
+cd create-user-reCAPTCHA-
 ```
 
 and open index.html file wıth your default browser. That's it :sunny:
