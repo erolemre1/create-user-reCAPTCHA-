@@ -4,7 +4,7 @@
 
 ## About The Project
 
-This app is a simple fun and nostalgic game. 
+A simple verification application developed using the google api.
 This application was developed using html css and vanilla javascript.
 
 ## Getting Started
